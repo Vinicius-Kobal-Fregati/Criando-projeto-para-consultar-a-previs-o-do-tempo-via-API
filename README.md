@@ -4,23 +4,23 @@ Este projeto foi realizado seguindo uma aula de mesmo nome da Digital Innovation
 
 ## Como o projeto ficou
 
-<img src="./img github/img1.png">
+<img src="./img github/img1.PNG">
 
 
 
-<img src="./img github/img2.png">
+<img src="./img github/img2.PNG">
 
 
 
-<img src="./img github/img3.png">
+<img src="./img github/img3.PNG">
 
 
 
-<img src="./img github/img4.png">
+<img src="./img github/img4.PNG">
 
 
 
-<img src="./img github/img5.png">
+<img src="./img github/img5.PNG">
 
 
 
@@ -34,4 +34,4 @@ Também podemos alterar a unidade da temperatura, podendo escolher entre as trê
 
 Ainda existem alguns erros que impossibilitam o progresso da aplicação, todos são provenientes de arquivos não encontrados.
 
-<img src="./img github/img6.png">
+<img src="./img github/img6.PNG">
